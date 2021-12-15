@@ -19,6 +19,11 @@ Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who liv
        label="Dioscorides"  
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/46/Dioscorides_CIPC0105.jpg">
+       
+## Cardamom
+
+One simple mentioned within De Materia Medica is Cardamom which Dioscorides mentions as having "warming, astringent, desiccative, soporific, and analgesic properties. Soothes inflammations of the eyes, internal organs, liver disease, kidney disease, gout, and female disorders."
+<param ve-plant-specimen eid="Q18360378">
 
 ## Why Dioscorides?
 
@@ -36,7 +41,6 @@ One of the most iconic changes came somewhere around the third or fourth century
 ## Liber Dioscoridis de Herbis Femininis
 
 In addition to the illustrations, De Materia Medica was adapted into the much more concise Liber Dioscoridis de Herbis Femininis in order to meet the demand for shorter medical texts. This version notably omits most of the information on animal and mineral drugs while adding content from other sources with no affiliation to Dioscorides. With these changes the herbarium grew in popularity immensely, even being offered in a five book collection which compiled the authoritative sources of early medieval materia medica.
-<param ve-plant-specimen eid="Q18360378">
 
 ## Translations
 
