@@ -23,7 +23,7 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 ## Introduction
 
-Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who lived from approximately 40 to 90 CE. While serving as a military physician in Nero’s Roman army, Dioscorides compiled vast knowledge on medical uses for plant, animal, mineral, and fungal simples. The results of this effort is his five-volume collection of manuscripts titled De Materia Medica, or On Medical Material, which he wrote in his native greek. Building off his own knowledge as a physician, previous writings, and local traditions in the Mediterranean Dioscorides produced the most detailed treatise of the Ancient world. These volumes contain information on over 5000 medical uses and recipes intended to treat an immense variety of ailments including abscesses, tumors, hemorrhoids, animal bites, stings, psychosomatic ailments, dysentery, spasms, and other assorted illnesses[^1]
+Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who lived from approximately 40 to 90 CE. While serving as a military physician in Nero’s Roman army, Dioscorides compiled vast knowledge on medical uses for plant, animal, mineral, and fungal simples. The results of this effort is his five-volume collection of manuscripts titled De Materia Medica, or On Medical Material, which he wrote in his native greek. Building off his own knowledge as a physician, previous writings, and local traditions in the Mediterranean, Dioscorides produced the most detailed treatise of the Ancient world. These volumes contain information on over 5000 medical uses and recipes intended to treat an immense variety of ailments including abscesses, tumors, hemorrhoids, animal bites, stings, psychosomatic ailments, dysentery, spasms, and other assorted illnesses[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -37,7 +37,7 @@ While Dioscorides’s  manuscript was highly utilized and respected by his immed
 
 ## Illustrations
 
-One of the most iconic changes came somewhere around the third or fourth century in the form of illustrations. These illustrations served to increase the overall usefulness of the manuscript for physicians but also added artistic value relevant to those outside the world of medicine and have grown to become one of the primary subjects of modern research regarding this text.
+One of the most iconic changes came somewhere around the third or fourth century in the form of illustrations. These illustrations served to increase the overall usefulness of the manuscript for physicians but also added artistic value relevant to those outside the world of medicine. The illustrations would eventually grow to become one of the primary subjects of modern research regarding this text.
 
 ## Liber Dioscoridis de Herbis Femininis
 
@@ -45,7 +45,7 @@ In addition to the illustrations, De Materia Medica was adapted into the much mo
 
 ## Translations
 
-Finally, perhaps most the most important element in Dioscorides’s ability to spread throughout the medieval world was its various translations. From its original Greek, De Materia Medica was translated into Latin, Syriac, and Arabic during the middle ages. The prevalence of translations of  De Materia Medica in the hands of high profile Arabic officials and physicians proves the value it brought to the Arabic world. However; it is important to note that this was not simply a one-way exchange. Within De Materia Medica, approximately 30 drugs are derived from imported plants originating from Africa, Arabia, Central Asia, and the Indo-Malayan ecozone. This demonstrates the Mediterranean and Arabic world’s mutually beneficial relationship centered around the bilateral exchange of medical knowledge and materials.
+Finally, perhaps most the most important element in Dioscorides’s ability to spread throughout the medieval world was its various translations. From its original Greek, De Materia Medica was translated into Latin, Syriac, and Arabic during the middle ages. The prevalence of translations of  De Materia Medica in the hands of high profile Arabic officials and physicians proves the value it brought to the Arabic world. However; it is important to note that this was not simply a one-way exchange. Within De Materia Medica, approximately 30 drugs are derived from imported plants originating from Africa, Arabia, Central Asia, and the Indo-Malayan ecozone. This demonstrates the Mediterranean and Arabic world’s mutually beneficial relationship centered around the bilateral exchange of medical knowledge and materials. At the center of this exchange was Dioscorides.
 
 ## Legacy in the Arabic World
 
