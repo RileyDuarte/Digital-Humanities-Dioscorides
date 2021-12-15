@@ -36,7 +36,6 @@ One of the most iconic changes came somewhere around the third or fourth century
 ## Liber Dioscoridis de Herbis Femininis
 
 In addition to the illustrations, De Materia Medica was adapted into the much more concise Liber Dioscoridis de Herbis Femininis in order to meet the demand for shorter medical texts. This version notably omits most of the information on animal and mineral drugs while adding content from other sources with no affiliation to Dioscorides. With these changes the herbarium grew in popularity immensely, even being offered in a five book collection which compiled the authoritative sources of early medieval materia medica.
-<param ve-image 
        <param ve-plant-specimen eid="Q2727878" max="1">
 
 ## Translations
