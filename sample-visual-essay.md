@@ -7,10 +7,10 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q1413"> <!-- Nero -->
+<param ve-entity eid="Q466060"> <!-- The Canon of Medicine -->
+<param ve-entity eid="Q297776"> <!-- Pedanius Dioscorides -->
+<param ve-entity eid="Q3704131"> <!-- De Materia Medica -->
 
 ## Introduction
 
