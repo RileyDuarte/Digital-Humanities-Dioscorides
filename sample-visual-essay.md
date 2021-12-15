@@ -22,7 +22,7 @@ Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who liv
        
 ## Cardamom
 
-One simple mentioned within De Materia Medica is Cardamom which Dioscorides mentions as having "warming, astringent, desiccative, soporific, and analgesic properties. Soothes inflammations of the eyes, internal organs, liver disease, kidney disease, gout, and female disorders."
+Of the 592 simples featured in De Materia Medica, one that links it to many other ancient treatises is cardamom. The manuscript describes it as having "warming, astringent, desiccative, soporific, and analgesic properties. Soothes inflammations of the eyes, internal organs, liver disease, kidney disease, gout, and female disorders."
 <param ve-plant-specimen eid="Q18360378">
 
 ## Why Dioscorides?
