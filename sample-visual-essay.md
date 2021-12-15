@@ -24,19 +24,22 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who lived from approximately 40 to 90 CE. While serving as a military physician in Nero’s Roman army, Dioscorides compiled vast knowledge on medical uses for plant, animal, mineral, and fungal simples. The results of this effort is his five-volume collection of manuscripts titled De Materia Medica, or On Medical Material, which he wrote in his native greek. Building off his own knowledge as a physician, previous writings, and local traditions in the Mediterranean, Dioscorides produced the most detailed treatise of the Ancient world. These volumes contain information on over 5000 medical uses and recipes intended to treat an immense variety of ailments including abscesses, tumors, hemorrhoids, animal bites, stings, psychosomatic ailments, dysentery, spasms, and other assorted illnesses[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Dioscorides"  
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/46/Dioscorides_CIPC0105.jpg">
 
 ## Why Dioscorides?
 
 While Dioscorides’s  manuscript was highly utilized and respected by his immediate successors in the ancient world, it continued to find frequent use well into the middle ages and only grew in popularity. The medieval world produced no shortage of medical pharmacopeias, so why was it that Dioscorides work outlasted those that came after it and how did it travel across the medieval world? The answer to this can be found in the changes made to De Materia Medica in the middle ages. Of these alterations: the addition of images, various translations, and the creation of an abridged version proved to be especially important in its dominance over medieval pharmacopeia. 
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q2201" zoom="11" prefer-geojson>
 
 ## Illustrations
 
 One of the most iconic changes came somewhere around the third or fourth century in the form of illustrations. These illustrations served to increase the overall usefulness of the manuscript for physicians but also added artistic value relevant to those outside the world of medicine. The illustrations would eventually grow to become one of the primary subjects of modern research regarding this text.
+<param ve-image 
+       label="Illustration from Arabic Translation"   
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Illuminated_single_leaf%2C_Two_doctors_preparing_medicine%2C_Walters_Art_Museum_Ms._W.675a.jpg">
 
 ## Liber Dioscoridis de Herbis Femininis
 
