@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who lived from approximately 40 to 90 CE. While serving as a military physician in the Roman army under Nero, Dioscorides compiled vast knowledge on medical uses for plant, animal, mineral, and fungal simples. The results of this effort is his five-volume collection of manuscripts titled De Materia Medica, or On Medical Material, which he wrote in his native greek. Building off his own knowledge as a physician, previous writings, and local traditions in the Mediterranean, Dioscorides produced the most detailed treatise of the Ancient world. These volumes contain information on over 5000 medical uses and recipes intended to treat an immense variety of ailments including abscesses, tumors, hemorrhoids, animal bites, stings, psychosomatic ailments, dysentery, spasms, and other assorted illnesses[^1]
+Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who lived from approximately 40 to 90 CE. While serving as a military physician in the Roman army under Nero, Dioscorides compiled vast knowledge on medical uses for plant, animal, mineral, and fungal simples. The results of this effort is his five-volume collection of manuscripts titled De Materia Medica, or On Medical Material, which he wrote in his native greek. Building off his own knowledge as a physician, previous writings, and local traditions in the Mediterranean, Dioscorides produced the most detailed treatise of the Ancient world. These volumes contain information on over 5000 medical uses and recipes intended to treat an immense variety of ailments including abscesses, tumors, hemorrhoids, animal bites, stings, psychosomatic ailments, dysentery, spasms, and other assorted illnesses
 <param ve-image 
        label="Dioscorides"  
        license="public domain" 
@@ -61,7 +61,3 @@ The Arabic world would produce many works inspired by De Materia Medica. Of thes
        label="Illustration of thge Nervous System from The Qanun"   
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/96/Nervous_system%2C_Avicenna%2C_Canon_of_Medicine_Wellcome_L0013312.jpg">
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
