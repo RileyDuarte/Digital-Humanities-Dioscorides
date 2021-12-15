@@ -49,6 +49,10 @@ Finally, perhaps most the most important element in Dioscorides’s ability to s
 ## Legacy in the Arabic World
 
 The Arabic world would produce many works inspired by De Materia Medica. Of these, perhaps the most famous is the Qanun or The Canon of Medicine. Written in the eleventh century by the Muslim philosopher, physician, and poet Avicenna, the Qanun was a five book overview of all the medical knowledge in the Islamic world. This manuscript went on to become one of the standard medical textbooks in Europe until the 18th century.
+<param ve-image 
+       label="Illustration of thge Nervous System from The Qanun"   
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/96/Nervous_system%2C_Avicenna%2C_Canon_of_Medicine_Wellcome_L0013312.jpg">
 
 ## Today
 
