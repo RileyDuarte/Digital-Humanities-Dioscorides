@@ -37,15 +37,13 @@ One of the most iconic changes came somewhere around the third or fourth century
 
 In addition to the illustrations, De Materia Medica was adapted into the much more concise Liber Dioscoridis de Herbis Femininis in order to meet the demand for shorter medical texts. This version notably omits most of the information on animal and mineral drugs while adding content from other sources with no affiliation to Dioscorides. With these changes the herbarium grew in popularity immensely, even being offered in a five book collection which compiled the authoritative sources of early medieval materia medica.
 <param ve-image 
-       label="Arabic Dioscorides"   
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Folio_Materia_Medica_Dioscurides_Met_13.152.6.jpg">
+       <param ve-plant-specimen eid="Q2727878" max="1">
 
 ## Translations
 
 Finally, perhaps most the most important element in Dioscorides’s ability to spread throughout the medieval world was its various translations. From its original Greek, De Materia Medica was translated into Latin, Syriac, and Arabic during the middle ages. The prevalence of translations of  De Materia Medica in the hands of high profile Arabic officials and physicians proves the value it brought to the Arabic world. However; it is important to note that this was not simply a one-way exchange. Within De Materia Medica, approximately 30 drugs are derived from imported plants originating from Africa, Arabia, Central Asia, and the Indo-Malayan ecozone. This demonstrates the Mediterranean and Arabic world’s mutually beneficial relationship centered around the bilateral exchange of medical knowledge and materials. At the center of this exchange was Dioscorides.
 <param ve-image 
-       label="Arabic Dioscorides"   
+       label="Example of an Arabic Dioscorides"   
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Folio_Materia_Medica_Dioscurides_Met_13.152.6.jpg">
 
