@@ -31,7 +31,7 @@ Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who liv
 ## Why Dioscorides?
 
 While Dioscorides’s  manuscript was highly utilized and respected by his immediate successors in the ancient world, it continued to find frequent use well into the middle ages and only grew in popularity. The medieval world produced no shortage of medical pharmacopeias, so why was it that Dioscorides work outlasted those that came after it and how did it travel across the medieval world? The answer to this can be found in the changes made to De Materia Medica in the middle ages. Of these alterations: the addition of images, various translations, and the creation of an abridged version proved to be especially important in its dominance over medieval pharmacopeia. 
-<param ve-map center="Q2201" zoom="11" prefer-geojson>
+<param ve-map center="Q220" zoom="10">
 
 ## Illustrations
 
@@ -53,12 +53,9 @@ Finally, perhaps most the most important element in Dioscorides’s ability to s
 
 The Arabic world would produce many works inspired by De Materia Medica. Of these, perhaps the most famous is the Qanun or The Canon of Medicine. Written in the eleventh century by the Muslim philosopher, physician, and poet Avicenna, the Qanun was a five book overview of all the medical knowledge in the Islamic world. This manuscript went on to become one of the standard medical textbooks in Europe until the 18th century.
 
-## Multiple viewers
+## Today
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+The Arabic world would produce many works inspired by De Materia Medica. Of these, perhaps the most famous is the Qanun or The Canon of Medicine. Written in the eleventh century by the Muslim philosopher, physician, and poet Avicenna, the Qanun was a five book overview of all the medical knowledge in the Islamic world. This manuscript went on to become one of the standard medical textbooks in Europe until the 18th century.
 
 # References
 
