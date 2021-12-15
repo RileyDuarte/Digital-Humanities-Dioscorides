@@ -21,9 +21,9 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 # Basic usage
 
-## Image
+## Introduction
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who lived from 40 to 90 CE. While serving as a military physician in Nero’s Roman army, Dioscorides compiled vast knowledge on medical uses for plant, animal, mineral, and fungal simples. The results of this effort is his five-volume collection of manuscripts titled De Materia Medica, or On Medical Material, which he wrote in his native greek. Building off his own knowledge as a physician, previous writings, and local traditions in the Mediterranean Dioscorides produced the most detailed treatise of the Ancient world. These volumes contain information on over 5000 medical uses and recipes intended to treat an immense variety of ailments including abscesses, tumors, hemorrhoids, animal bites, stings, psychosomatic ailments, dysentery, spasms, and other assorted illnesses[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
