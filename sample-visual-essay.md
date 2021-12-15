@@ -27,7 +27,7 @@ Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who liv
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/46/Dioscorides_CIPC0105.jpg">
 
 ## Why Dioscorides?
 
