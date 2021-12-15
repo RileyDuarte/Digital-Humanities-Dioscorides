@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Dioscorides and De Materia Medica" 
+       title="Dioscorides and De Materia Medica in the Middle Ages" 
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
@@ -30,18 +30,26 @@ Pedanius Dioscorides was a Greek physician, pharmacologist, and botanist who liv
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Ancient World
+## Why Dioscorides?
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+While Dioscorides’s  manuscript was highly utilized and respected by his immediate successors in the ancient world, it continued to find frequent use well into the middle ages and only grew in popularity. The medieval world produced no shortage of medical pharmacopeias, so why was it that Dioscorides work outlasted those that came after it and how did it travel across the medieval world? The answer to this can be found in the changes made to De Materia Medica in the middle ages. Of these alterations: the addition of images, various translations, and the creation of an abridged version proved to be especially important in its dominance over medieval pharmacopeia. 
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Middle Ages
+## Illustrations
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+One of the most iconic changes came somewhere around the third or fourth century in the form of illustrations. These illustrations served to increase the overall usefulness of the manuscript for physicians but also added artistic value relevant to those outside the world of medicine and have grown to become one of the primary subjects of modern research regarding this text.
 
-## Modern
+## Liber Dioscoridis de Herbis Femininis
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+In addition to the illustrations, De Materia Medica was adapted into the much more concise Liber Dioscoridis de Herbis Femininis in order to meet the demand for shorter medical texts. This version notably omits most of the information on animal and mineral drugs while adding content from other sources with no affiliation to Dioscorides. With these changes the herbarium grew in popularity immensely, even being offered in a five book collection which compiled the authoritative sources of early medieval materia medica.
+
+## Translations
+
+Finally, perhaps most the most important element in Dioscorides’s ability to spread throughout the medieval world was its various translations. From its original Greek, De Materia Medica was translated into Latin, Syriac, and Arabic during the middle ages. The prevalence of translations of  De Materia Medica in the hands of high profile Arabic officials and physicians proves the value it brought to the Arabic world. However; it is important to note that this was not simply a one-way exchange. Within De Materia Medica, approximately 30 drugs are derived from imported plants originating from Africa, Arabia, Central Asia, and the Indo-Malayan ecozone. This demonstrates the Mediterranean and Arabic world’s mutually beneficial relationship centered around the bilateral exchange of medical knowledge and materials.
+
+## Legacy in the Arabic World
+
+The Arabic world would produce many works inspired by De Materia Medica. Of these, perhaps the most famous is the Qanun or The Canon of Medicine. Written in the eleventh century by the Muslim philosopher, physician, and poet Avicenna, the Qanun was a five book overview of all the medical knowledge in the Islamic world. This manuscript went on to become one of the standard medical textbooks in Europe until the 18th century.
 
 ## Multiple viewers
 
